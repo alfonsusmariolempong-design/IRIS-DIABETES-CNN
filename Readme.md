@@ -83,3 +83,6 @@ Catatan
 - Dataset wajib sudah terlabel (normal & diabetes)
 - Model harus dilatih terlebih dahulu sebelum inference
 - Proyek ini ditujukan untuk penelitian, bukan diagnosis medis
+
+redeploy trigger
+
