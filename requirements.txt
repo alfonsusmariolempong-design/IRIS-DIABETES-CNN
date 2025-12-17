@@ -1,0 +1,11 @@
+Flask
+gunicorn
+opencv-python-headless
+numpy
+scikit-learn==1.7.2
+imblearn
+matplotlib
+pywavelets
+scikit-image
+flask-cors
+
