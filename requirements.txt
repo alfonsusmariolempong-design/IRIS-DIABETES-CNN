@@ -1,11 +1,12 @@
-Flask
+flask
 flask-cors
 gunicorn
-opencv-python-headless
 numpy
-scikit-learn==1.7.2
-pywavelets
-scikit-image
+opencv-python-headless
 tensorflow==2.13.0
+scikit-image
+scikit-learn
+pywavelets
+
 
 
