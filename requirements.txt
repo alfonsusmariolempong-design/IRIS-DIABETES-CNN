@@ -1,11 +1,12 @@
 Flask
+flask-cors
 gunicorn
 opencv-python-headless
 numpy
 scikit-learn==1.7.2
-imblearn
+imbalanced-learn
 matplotlib
 pywavelets
 scikit-image
-flask-cors
+tensorflow==2.13.0
 
