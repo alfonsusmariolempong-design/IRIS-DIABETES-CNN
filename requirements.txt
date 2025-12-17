@@ -4,9 +4,8 @@ gunicorn
 opencv-python-headless
 numpy
 scikit-learn==1.7.2
-imbalanced-learn
-matplotlib
 pywavelets
 scikit-image
 tensorflow==2.13.0
+
 
